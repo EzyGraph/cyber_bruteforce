@@ -3,8 +3,8 @@
 Desafio de projeto **Santander Bootcamp Cybersegurança do zero à prática**.
 
 Para as simulações foram utilizadas duas máquinas virtuais:
-	- Kali Linux 7.1.5
-	- Metasploitable 2.6.24
+- Kali Linux 7.1.5
+- Metasploitable 2.6.24
 	
 ![Virtual Machines](/img/vms.png "Virtual Machines")
 	
@@ -39,7 +39,7 @@ Simulação de invasão por meio do **smbclient**.
 
 ### Desafios complementares
 
-O ambiente como um todo não estava totalmente consigurado para as simulações propostas. Por isso alguns ajustes foram necessários:  
+O ambiente como um todo não estava devidamente configurado para as simulações propostas. Por isso, alguns ajustes foram necessários:  
 
 - Definido um ip estático manualmente no **Metasploitable 2** para encontrá-lo na mesma rede do Kali Linux.
 - Configuração do Banco de Dados **MariaDB**.
