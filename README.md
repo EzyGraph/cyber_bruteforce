@@ -24,8 +24,7 @@ Simulação de combinações de acesso automatizadas para preenchimento de formu
 
 ---
 
-Enumeração utilizando **enum4linux**
-Simulação com ataque *password spraying*.
+Enumeração utilizando **enum4linux** e simulação com ataque *password spraying*.
 
 ![Password Spraying](/img/pass_spray.png "Password Spraying")
 
@@ -56,4 +55,4 @@ dificultar investidas maliciosas semelhantes às demonstradas:
 - Criar senhas complexas: contendo letras maiúsculas, minúsculas, números e algum caractere especial.
 - Limitar tentativas de login.
 - Forçar redefinições de senha por determinado período.
-- Verificar se o antivirus e firewall estão atualizado.
+- Verificar se o antivirus e firewall estão atualizados.
